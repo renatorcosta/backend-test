@@ -10,7 +10,7 @@ Projeto para avaliação técnica de candidatos à vaga de desenvolvimento Back-
     Telefone,
     Endereço (Endereço completo)
     
-    *Campos obrigatórios
+    *Campos obrigatórios e demais validações de acordo com seu entendimento de negócio
     
 * Incluir testes de unidade para o código
 * Persistir os dados em SQL Server ou MongoDB
